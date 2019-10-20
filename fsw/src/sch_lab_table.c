@@ -44,6 +44,7 @@ SCH_LAB_ScheduleTable_t  SCH_TBL_Structure =
         CFE_TBL_SEND_HK_MID,
         CI_LAB_SEND_HK_MID,
         TO_LAB_SEND_HK_MID,
+        MQTT_SEND_HK_MID,
         SAMPLE_APP_SEND_HK_MID,
 
         SCH_LAB_END_OF_TABLE          
